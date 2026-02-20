@@ -1,7 +1,7 @@
 # Maze game
 A game where you traverse a generated maze with limited vision
 
-Generation algorithm taken from [aleksandrbazhin/mazegen](https://github.com/aleksandrbazhin/mazegen/blob/master)
+Maze generation done with [mazegen.hpp](/mazegen.hpp) from [aleksandrbazhin/mazegen](https://github.com/aleksandrbazhin/mazegen/blob/master)
 
 ### Requirements:
 * gnu make
