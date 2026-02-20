@@ -1,7 +1,12 @@
 # Maze game
-A game where you traverse a generated maze with limited vision
+A game where you traverse a generated maze with limited vision.
 
+The game uses escape code graphics in the terminal.
+
+## Credits
 Maze generation done with [mazegen.hpp](/mazegen.hpp) from [aleksandrbazhin/mazegen](https://github.com/aleksandrbazhin/mazegen/blob/master)
+
+Capturing terminal input with function from [stackoverflow](https://stackoverflow.com/a/912796)
 
 ### Requirements:
 * gnu make
