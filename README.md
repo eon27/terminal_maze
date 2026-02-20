@@ -1,6 +1,6 @@
 Requirements:
-gnu make
-gcc (gnu c compiler)
+* gnu make
+* gcc (gnu c compiler)
 
 Set up:
 1. Clone
